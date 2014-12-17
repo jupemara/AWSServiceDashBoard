@@ -71,7 +71,7 @@ def get_args():
         type='string', default=DEFAULT_VALUES['region'],
         help=(
             'AWS region name. '
-            'You can multiple regions by using comma as delimiter.'
+            'You can specify multiple regions by using comma as delimiter.'
         ),
     )
 
